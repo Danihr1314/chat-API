@@ -32,7 +32,7 @@ const router = Router();
  *     summary: log user
  *     tags: [Auth]
  *     requestBody:
- *       description: Required fields to create a new user
+ *       description: Required fields to log with an existent user
  *       required: true
  *       content:
  *         application/json:
